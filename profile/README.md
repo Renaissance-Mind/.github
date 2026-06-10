@@ -1,4 +1,6 @@
-# Renaissance Mind
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/399db0d9-18b7-406b-b444-7ccfd5c7660c" />
+
+# RenaissanceMind ｜ 认知宇宙
 
 Renaissance Mind is building human-centered cognitive augmentation for the age of AI agents.
 
